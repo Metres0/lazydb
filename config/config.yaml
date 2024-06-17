@@ -1,0 +1,1 @@
+wal_file: "data.wal"cache_capacity: 100backup:  wal_interval: "1h"  data_interval: "24h"  wal_backup_path: "backup/wal_backup.wal"  data_backup_path: "backup/data_backup.dat"
